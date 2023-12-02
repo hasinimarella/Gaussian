@@ -51,7 +51,7 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
-![OUTPUT](Gaussian.png)
+![OUTPUT](Gaussian-1.png)
 
 
 
